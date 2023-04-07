@@ -24,13 +24,13 @@ android {
     }
     signingConfigs {
         release {
-            storeFile file('/Users/macbookpro/Documents/personal-project/productFlavors/keystore')
+            storeFile file('') // please generate store file by your own
             storePassword 'productFlavors'
             keyAlias 'productFlavors'
             keyPassword 'productFlavors'
         }
         debug {
-            storeFile file('/Users/macbookpro/Documents/personal-project/productFlavors/keystore')
+            storeFile file('') // please generate store file by your own
             storePassword 'productFlavors'
             keyAlias 'productFlavors'
             keyPassword 'productFlavors'
