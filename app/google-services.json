@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "465303841861",
+    "project_id": "product-flavors-cbd5a",
+    "storage_bucket": "product-flavors-cbd5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465303841861:android:fd24be1e026668b89c072c",
+        "android_client_info": {
+          "package_name": "com.example.productflavors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465303841861-5u55hq3mtjcmgfdni9gfmttieagjmm37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0dDVyhmCcg9AvvuKcHwtmbnGHJr3Ngw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465303841861-5u55hq3mtjcmgfdni9gfmttieagjmm37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465303841861:android:457253c925c0abd79c072c",
+        "android_client_info": {
+          "package_name": "com.example.productflavors.pre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465303841861-5u55hq3mtjcmgfdni9gfmttieagjmm37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0dDVyhmCcg9AvvuKcHwtmbnGHJr3Ngw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465303841861-5u55hq3mtjcmgfdni9gfmttieagjmm37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465303841861:android:ab7b63059ce994e79c072c",
+        "android_client_info": {
+          "package_name": "com.example.productflavors.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465303841861-5u55hq3mtjcmgfdni9gfmttieagjmm37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0dDVyhmCcg9AvvuKcHwtmbnGHJr3Ngw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465303841861-5u55hq3mtjcmgfdni9gfmttieagjmm37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
